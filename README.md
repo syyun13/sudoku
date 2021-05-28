@@ -1,4 +1,4 @@
-# sudoku in Python
+# visualizing sudoku in Python
 
 `sudoku_game.py`
 
